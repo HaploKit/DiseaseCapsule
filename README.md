@@ -6,6 +6,9 @@ Predicting the prevalence of complex genetic diseases from individual genotype p
 - Python >= v3.7
 - PyTorch v1.5.0 (GPU)
 - TensorFlow v2.1.0 (GPU)
+- sklearn v0.22.2
+
+No need to install the source code. Dependencies can be installed with a few minutes.
 
 ## Running code
 Our proposed DiseaseCapsule:
@@ -21,3 +24,6 @@ Other approaches for comparison:
 Potentially diease-related core genes and non-additive genes selection:
 - select_core_genes.ipynb
 - select_nonadditive_genes.py
+
+## Experimental data
+Since the real data used in this study is only available to bona-fide researchers upon request, just to facilitate understanding, synthetic data can be seen here: https://drive.google.com/open?id=1Mya0YdT4Hf9wUfbcX6y5mubEFWky6Jg- 
