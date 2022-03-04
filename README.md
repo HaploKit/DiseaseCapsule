@@ -1,6 +1,13 @@
 # DiseaseCapsule
 Predicting the prevalence of complex genetic diseases from individual genotype profiles using capsule networks
 
+## Installation and dependencies
+- Linux OS; GPU hardware support
+- Python >= v3.7
+- PyTorch v1.5.0 (GPU)
+- TensorFlow v2.1.0 (GPU)
+
+## Running code
 Our proposed DiseaseCapsule:
 - capsule.GPU.py 
 
