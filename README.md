@@ -24,7 +24,7 @@ Other approaches for comparison:
 - classifier_PRS.py
 
 Potentially diease-related core genes and non-additive genes selection:
-- select_core_genes.ipynb
+- select_core_genes_for_classification.ipynb
 - select_nonadditive_genes.py
 
 ## Experimental data
