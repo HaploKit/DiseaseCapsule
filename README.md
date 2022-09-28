@@ -11,6 +11,8 @@ Predicting the prevalence of complex genetic diseases from individual genotype p
 No need to install the source code. Dependencies can be installed with a few minutes.
 
 ## Running code
+One could see `pipeline.sh` for the general workflow of analysis in this study.
+
 Our proposed DiseaseCapsule:
 - capsule.GPU.py 
 
@@ -26,4 +28,5 @@ Potentially diease-related core genes and non-additive genes selection:
 - select_nonadditive_genes.py
 
 ## Experimental data
-Since the real data used in this study is only available to bona-fide researchers upon request, just to facilitate understanding, synthetic data can be seen here: https://drive.google.com/open?id=1Mya0YdT4Hf9wUfbcX6y5mubEFWky6Jg- 
+The ALS data used in this study has been deposited at dbGaP database (Accession: xxx).
+Synthetic data can be seen here: https://drive.google.com/open?id=1Mya0YdT4Hf9wUfbcX6y5mubEFWky6Jg- 
