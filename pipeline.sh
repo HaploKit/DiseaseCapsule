@@ -84,8 +84,8 @@ python basicML_allpca.py adab allGenes_pca.pkl 1.0 adab_allpca_1.0
 python basicML_allpca.py lr allGenes_pca.pkl 1.0 lr_allpca_1.0
 python basicML_allpca.py svm allGenes_pca.pkl 1.0 svm_allpca_1.0
 
-################## Step 8.  Determining genes decisive for classification ###################
-#see select_core_genes.ipynb
+################## Step 8.  Determining core genes decisive for classification ###################
+#see select_core_genes_for_classification.ipynb
 
 ################## Step 9.  Determining "non-additive" genes ###################
 python select_nonadditive_genes.py
