@@ -28,5 +28,5 @@ Potentially diease-related core genes and non-additive genes selection:
 - select_nonadditive_genes.py
 
 ## Experimental data
-The ALS data used in this study has been deposited at dbGaP database (Accession: xxx).
+The ALS data used in this study has been deposited at dbGaP database (Accession: phs003146.v1.p1).
 Synthetic data can be seen here: https://drive.google.com/open?id=1Mya0YdT4Hf9wUfbcX6y5mubEFWky6Jg- 
