@@ -57,7 +57,7 @@ for i in {1..22};do cd $dir/chr$i; python get_genes.py chr$i  & done
 ##2. Run Gene-PCA ###
 cd $dir/chr$i; python gene_pca.py $chr $gene
 
-##4. combined feature file
+##3. combined feature file
 python combine_features.py
 
 ## run All-PCA
